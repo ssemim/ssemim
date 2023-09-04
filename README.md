@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ssemim=anuraghazra&layout=compact)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssemim&langs_count=10&layout=compact&theme=light)](https://github.com/ssemim/ssemim)﻿
 
