@@ -6,10 +6,12 @@
 #### 풀스텍 개발자 희망 / Wanna be a Full-Stack developer
 
 ###### 다양하게 여러가지를 시도해봅니다. 신상 좋.아
-###### 자바 스크립트를 배우려다가 자바를 배우게 됐음 
+###### 자바 스크립트를 배우려다가 자바를 배우게 됐음 (농담입니다)
 
 ###### 이메일[KOR]: jhl2_014@naver.com
 ###### E-mail[Eng]: jhl201414@gmail.com
+
+
 <!--
 **ssemim/ssemim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
