@@ -3,9 +3,11 @@
 
 # Hi there 👋
 
-#### 풀스텍 개발자 희망 / Wanna be Full-Stack developer
+#### 풀스텍 개발자 희망 / Wanna be a Full-Stack developer
 
 ###### 다양하게 여러가지를 시도해봅니다. 신상 좋.아
+###### 자바 스크립트를 배우려다가 자바를 배우게 됐음 
+
 ###### 이메일[KOR]: jhl2_014@naver.com
 ###### E-mail[Eng]: jhl201414@gmail.com
 <!--
