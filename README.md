@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SSEMIM%/HYORYEON&animation=fadeIn&fontSize=80)
 
 
-### Hi there 👋
+# Hi there 👋
 
-풀스텍 개발자 희망 
-
+#### 풀스텍 개발자 희망 / Wanna be Full-Stack developer
 
 
 <!--
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-🌠[SKILLS]🌠      
+### 🌠[SKILLS]🌠      
 
 
 
@@ -36,7 +35,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-🌠[TOOLS]🌠
+### 🌠[TOOLS]🌠
 
 <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache%20tomcat&logoColor=black" /><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
 
 
 
-🌠[CONTACT ME]🌠
+### 🌠[CONTACT ME]🌠
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 
