@@ -6,8 +6,8 @@
 #### 풀스텍 개발자 희망 / Wanna be Full-Stack developer
 
 ###### 다양하게 여러가지를 시도해봅니다. 신상 좋.아
-###### 
-
+###### 이메일[KOR]: jhl2_014@naver.com
+###### E-mail[Eng]: jhl201414@gmail.com
 <!--
 **ssemim/ssemim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
